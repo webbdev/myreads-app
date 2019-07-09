@@ -9,8 +9,8 @@ Project for the Udacity React Nanodegree Program.
 
 1. git clone the repository: https://github.com/webbdev/myreads-app.git
 2. cd myreads-app
-3. npm install or yarn install
-4. npm start or yarn install
+3. npm install
+4. npm start
 5. navigate to http://localhost:3000
 
 
